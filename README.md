@@ -13,7 +13,7 @@ For further details, please visit: https://wiki.melissadata.com/images/0/0e/DQT_
 ## Tested Environments
 
 - Windows 64-bit .NET 7.0
-- Melissa Name Object for 2023-04
+- Melissa Name Object for 2023-07
 
 ## Getting Started
 
