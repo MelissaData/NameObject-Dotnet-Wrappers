@@ -12,15 +12,15 @@ For further details, please visit: https://docs.melissa.com/on-premise-api/name-
 ## Tested Environments
 - Windows 10 64-bit .NET 7.0, Powershell 5.1
 - Linux 64-bit .NET 7.0, Ubuntu 20.04.05 LTS
-- Melissa Name Object for 2024-09
+- Melissa Name Object for 2024-10
 - Wrapper file(s) have not changed since 2023-07
 
 ## Getting Started
 
 ### Download this project
 ```
-$ git clone https://github.com/MelissaData/NameObject-Dotnet-Wrappers
-$ cd NameObject-Dotnet-Wrappers
+git clone https://github.com/MelissaData/NameObject-Dotnet-Wrappers
+cd NameObject-Dotnet-Wrappers
 ```
 
 ### Copy wrappers to your project folder
@@ -50,13 +50,13 @@ Parameters:
 - license (optional): a license key to run the powershell script
 
 ```
-$ .\BuildNameNETdll.ps1
+.\BuildNameNETdll.ps1
 ```
 
 or
 
 ```
-$ .\BuildNameNETdll.ps1 -license "<your_license_key>"
+.\BuildNameNETdll.ps1 -license "<your_license_key>"
 ```
 
 ## See also
