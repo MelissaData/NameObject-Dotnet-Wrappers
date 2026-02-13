@@ -5,22 +5,22 @@ This is the code for you to run Name Object in .NET.
 
 Please feel free to copy or embed this code to your own project. Happy coding!
 
-For the latest Melissa Name Object release notes, please visit: https://releasenotes.melissa.com/on-premise-api/name-object/
+To view the latest Melissa Name Object release notes or to subscribe to product notifications, please visit: https://releasenotes.melissa.com/on-premise-api/name-object/
 
 For further details, please visit: https://docs.melissa.com/on-premise-api/name-object/name-object-quickstart.html
 
 ## Tested Environments
-- Windows 10 64-bit .NET 7.0, Powershell 5.1
+- Windows 11 64-bit .NET 7.0, Powershell 5.1
 - Linux 64-bit .NET 7.0, Ubuntu 20.04.05 LTS
-- Melissa Name Object for 2026-01
+- Melissa Name Object for 2026-02
 - Wrapper file(s) have not changed since 2025-04
 
 ## Getting Started
 
 ### Download this project
 ```
-git clone https://github.com/MelissaData/NameObject-Dotnet-Wrappers
-cd NameObject-Dotnet-Wrappers
+git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/net/melissanameobjectnetwrappers.git
+cd melissanameobjectnetwrappers
 ```
 
 ### Copy wrappers to your project folder
